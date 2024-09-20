@@ -34,6 +34,7 @@ Once we are satisfied we can begin applying textures to bring the terrain to lif
 
 # Textures
 
+For textures you can go to the Unity Asset Store and search for free textures that you can automatically download to your unity. Otherwise you can also create a texture by searching online for the texture type you are looking for and downloading it as a png. Make sure all the textures you want to use are in one folder for convenience. In this case I will download a mud texture and move it into my texture folder that already exists and has other textures I will be using.
 
 
 
