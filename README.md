@@ -44,5 +44,5 @@ In Unity's Assets Store, we installed and imported the following FREE assets to 
 
 ## Experience Gained
 
-I really enjoyed getting to see the scene come together and seeing the creativity from my teammates. This project made us struggle a lot with the assets in particular, but we were able to manage it well enough in the end. Working on this brought some memories from my life. One of them was when I had to make a hand-crafted model of Tenochtitlan in my history class in 8th grade. The other was when I had visited the Tulum Mayan ruins in Mexico from a cruise across Central America. So, overall, I felt a lot of joy working on this challenge and having to apply everything we have learned so far in the class. 
+I really enjoyed getting to see the scene come together and seeing the creativity from my teammates. This project made us struggle a lot with the assets in particular, but we were able to manage it well enough in the end. Working on this brought back some good memories from my life. One of them was when I had to make a hand-crafted model of Tenochtitlan in my history class in 8th grade. The other was when I had visited the Tulum Mayan ruins in Mexico from a cruise across Central America. So, overall, I felt a lot of joy working on this challenge and having to apply everything we have learned so far in the class. 
 > Nicole A. Vallejo Chinea
