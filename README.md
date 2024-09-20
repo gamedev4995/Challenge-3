@@ -4,8 +4,8 @@ Celebrating Mexico’s Independence day that was September 15th, for this challe
 
 --- 
 
-## Probuilder
-For this proyect we used Probuilder to allow us easy access alteration for our shapes. To see our Probuilder tools, at the menu at the top go to Tools > Probuilder > Probuilder window. This will make our variety of tools visible.
+## ProBuilder
+For this proyect we used Probuilder to allow us easy access alteration for our shapes. To see our ProBuilder tools, at the menu at the top go to Tools > ProBuilder > ProBuilder window. This will make our variety of tools visible.
 
 <img width="500" alt="foto 0" src="https://github.com/user-attachments/assets/11663aaa-65ee-4290-8108-3ac86ff1d70c">
 
@@ -54,3 +54,6 @@ In Unity's Assets Store, we installed and imported the following FREE assets to 
 
 I really enjoyed getting to see the scene come together and seeing the creativity from my teammates. This project made us struggle a lot with the assets in particular, but we were able to manage it well enough in the end. Working on this brought back some good memories from my life. One of them was when I had to make a hand-crafted model of Tenochtitlan in my history class in 8th grade. The other was when I had visited the Tulum Mayan ruins in Mexico from a cruise across Central America. So, overall, I felt a lot of joy working on this challenge and having to apply everything we have learned so far in the class. 
 > Nicole A. Vallejo Chinea
+
+This project really helped me think outside the box, considering how almost the entirety of the pyramid is made simply of cubes. At first, it was challenging to think about how to incorporate each element we wanted to create and bring to life, but as I kept playing around with the cubes and shapes, the easier it got to imagine all the things I could do. Using ProBuilder really enhanced my abilities as well, due to how useful the tool is. It was easy to work with and manipulate shapes into what we wanted them to be. I feel like this project really helped me widen my perspective on how to approach and implement new things that I know will be incredibly helpful and useful for any future projects and/or challenges.
+> Amanda C. Rivera Santos
