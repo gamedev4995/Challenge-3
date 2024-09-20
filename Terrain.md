@@ -15,8 +15,19 @@ Center the pyramid around on the terrain. You can easily do this by selecting th
 <img width="600" alt="Screenshot 2024-09-19 at 6 36 53 PM" src="https://github.com/user-attachments/assets/b1568332-0d34-4268-94df-8eda91a37977">
 
 # Set Height 
-Scroll back up to the Terrain properties. Select the Paint Terrain property (the mountain icon with a paintbrush) and select Set Height on the option bar. Make sure Space is set to World. Set the Height field to about 34-35. Click Flatten All to actualize changes. 
+  Scroll back up to the Terrain properties. Select the Paint Terrain property (the mountain icon with a paintbrush) and select Set Height on the option bar. Make sure Space is set to World. Set the Height field to about 250. Click Flatten All to actualize changes. 
 
-<img width="300" alt="Screenshot 2024-09-20 at 6 26 12 PM" src="https://github.com/user-attachments/assets/0b585544-def3-4930-a830-6f9a0d38d9ea">
+<img width="300" alt="Screenshot 2024-09-20 at 6 26 12 PM" src="https://github.com/user-attachments/assets/0663ddd3-f54b-4ced-a4bd-31eb507ef443">
+
+# Create the lake
+	With the terrain object selected, create the lake around by dipping the ground. In the Paint Terrain change Set Height to Raise or Lower Terrain. Select a soft brush with a size of 8-9 and an opacity of 6-7. To lower the terrain, shift and drag the brush around the pyramid. This is easier to do from above on the y-perspective.
+
+<img width="600" alt="Screenshot 2024-09-19 at 6 38 34 PM" src="https://github.com/user-attachments/assets/09c7c052-54ca-4d9a-9adf-c817cc9f39a5">
+
+Once we are satisfied we can begin applying textures to bring the terrain to life. 
+
+# Textures
+
+
 
 
