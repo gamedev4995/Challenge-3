@@ -16,9 +16,17 @@ For our Proyect we will be using this tiny window on our scene. The 1st square i
 
 ## Materials
 
-We also created our own materials and textures to give our pyramid and landscape a more realistic look to it. 
+We also created our own materials and textures to give our pyramid and landscape a more realistic look to it. To create a new material, we simply right clicked inside our Materials folder to get a dropdown, clicked Create > Material. For each basic color, we went to the menu on the right and selected our preferred colors from base map. Meanwhile for our textures, we clicked the dot beside base map which opens up a small window to search for our textures and select from there.
 
-<img width="482" alt="mats" src="https://github.com/user-attachments/assets/1e0addac-722c-4f83-8865-5ed1cedd39fe">
+<img width="256" alt="Screenshot 2024-09-20 at 7 07 14 PM" src="https://github.com/user-attachments/assets/2fa11c98-8b7e-4b48-8098-01372b943554">        <img width="256" alt="Screenshot 2024-09-20 at 7 11 00 PM" src="https://github.com/user-attachments/assets/1ee0f967-6900-4556-8e8a-8a6ea3a90b15">
+
+
+Our materials:
+
+<img width="478" alt="Screenshot 2024-09-20 at 7 03 10 PM" src="https://github.com/user-attachments/assets/a12f13fa-9ca4-406b-ab96-e4f291970114">
+
+
+
 
 
 ## Assets
