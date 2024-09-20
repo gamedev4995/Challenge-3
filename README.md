@@ -47,7 +47,7 @@ In Unity's Assets Store, we installed and imported the following FREE assets to 
 
 ## Short Story
 - In _Echoes Beneath_, you play as Tlalli, a young warrior in the Aztec Empire. The game begins with a tourist guide sharing the legend of Tlalli to a group of tourists visiting the Main Temple. The legend states that after a mysterious earthquake hits Tenochtitlan, the high priests ask Tlalli to investigate Huēyi Teōcalli, the Main Temple. They fear the earthquake is tied to an old prophecy that warns of a disaster if the balance between the gods and the world is disturbed. Tlalli’s mission was to explore the temple and find out what’s causing the disturbance before it’s too late.
-- As Tlalli journeys through the temple, the player would face puzzles, traps, and fierce creatures from Aztec mythology. The deeper the Tlalli goes, more secrets about the prophecy get revealed. Here the player could encounter bosses, weapons, and ancient relics that could provide status enhancements or new abilities.
+- As Tlalli journeys through the temple, the player would face puzzles, traps, and fierce creatures from Aztec mythology. The deeper Tlalli goes, more secrets about the prophecy get revealed. Here the player could encounter bosses, weapons, and ancient relics that could provide status enhancements or new abilities.
 - In the end, Tlalli makes a difficult decision that could change the fate of the city. How the story unfolds depends on the choices they make, leaving players to decide how the prophecy will play out. Ultimately, the game would explore themes of destiny, sacrifice, and the weight of one's choices in the face of divine power.
 
 ## Experience Gained
