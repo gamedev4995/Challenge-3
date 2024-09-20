@@ -25,13 +25,15 @@ We also created our own materials and textures to give our pyramid and landscape
 
 In Unity's Assets Store, we installed and imported the following FREE assets to decorate the landscape a bit and bring more life into the scene:
 
-1. Tree asset
+1. 2022 PBR XfrogPlants Sampler - Tree & plant models
+   <img width="500" alt="Screenshot 2024-09-20 at 6 03 15 PM" src="https://github.com/user-attachments/assets/ffcb0e76-d774-4826-aeaf-b93e8b94dc58">
+
    
-2. City People Lite - Human models
+3. City People Lite - Human models
 
    <img width="500" alt="Screenshot 2024-09-20 174803" src="https://github.com/user-attachments/assets/38e14e59-3c38-4c68-b286-88fa8d1df040">
   
-3. 3D Stylized Animated Dogs Kit - Dog models
+4. 3D Stylized Animated Dogs Kit - Dog models
 
    <img width="500" alt="Screenshot 2024-09-20 170100" src="https://github.com/user-attachments/assets/8a2973f9-db4d-4175-b567-a4f698cd8172">
 
