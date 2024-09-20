@@ -1,5 +1,5 @@
 
-#Create Terrain
+# Create Terrain
 After we’ve built our pyramid we can start creating the terrain.
 
 In the Hierarchy window right click > 3D Object > Terrain. Adjust the Terrain size by going to the Inspector tab down to the Terrain window. Select Terrain Settings (the mountain icon at the end on the right). 
