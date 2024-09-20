@@ -29,11 +29,11 @@ In Unity's Assets Store, we installed and imported the following FREE assets to 
    
 2. City People Lite - Human models
 
-   <img width="350" alt="Screenshot 2024-09-20 174803" src="https://github.com/user-attachments/assets/38e14e59-3c38-4c68-b286-88fa8d1df040">
+   <img width="500" alt="Screenshot 2024-09-20 174803" src="https://github.com/user-attachments/assets/38e14e59-3c38-4c68-b286-88fa8d1df040">
   
 3. 3D Stylized Animated Dogs Kit - Dog models
 
-   <img width="350" alt="Screenshot 2024-09-20 170100" src="https://github.com/user-attachments/assets/8a2973f9-db4d-4175-b567-a4f698cd8172">
+   <img width="500" alt="Screenshot 2024-09-20 170100" src="https://github.com/user-attachments/assets/8a2973f9-db4d-4175-b567-a4f698cd8172">
 
 ## Short Story
 
