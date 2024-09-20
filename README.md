@@ -26,8 +26,7 @@ We also created our own materials and textures to give our pyramid and landscape
 In Unity's Assets Store, we installed and imported the following FREE assets to decorate the landscape a bit and bring more life into the scene:
 
 1. 2022 PBR XfrogPlants Sampler - Tree & plant models
-   <img width="500" alt="Screenshot 2024-09-20 at 6 03 15 PM" src="https://github.com/user-attachments/assets/ffcb0e76-d774-4826-aeaf-b93e8b94dc58">
-
+   <img width="500" alt="Screenshot 2024-09-20 at 6 05 32 PM" src="https://github.com/user-attachments/assets/e30db834-3a66-4204-ab69-ceac6c4085ab">
    
 3. City People Lite - Human models
 
