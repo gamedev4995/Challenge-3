@@ -26,13 +26,14 @@ We also created our own materials and textures to give our pyramid and landscape
 In Unity's Assets Store, we installed and imported the following FREE assets to decorate the landscape a bit and bring more life into the scene:
 
 1. 2022 PBR XfrogPlants Sampler - Tree & plant models
+   
    <img width="500" alt="Screenshot 2024-09-20 at 6 05 32 PM" src="https://github.com/user-attachments/assets/e30db834-3a66-4204-ab69-ceac6c4085ab">
    
-3. City People Lite - Human models
+2. City People Lite - Human models
 
    <img width="500" alt="Screenshot 2024-09-20 174803" src="https://github.com/user-attachments/assets/38e14e59-3c38-4c68-b286-88fa8d1df040">
   
-4. 3D Stylized Animated Dogs Kit - Dog models
+3. 3D Stylized Animated Dogs Kit - Dog models
 
    <img width="500" alt="Screenshot 2024-09-20 170100" src="https://github.com/user-attachments/assets/8a2973f9-db4d-4175-b567-a4f698cd8172">
 
@@ -43,3 +44,5 @@ In Unity's Assets Store, we installed and imported the following FREE assets to 
 
 ## Experience Gained
 
+I really enjoyed getting to see the scene come together and seeing the creativity from my teammates. This project made us struggle a lot with the assets in particular, but we were able to manage it well enough in the end. Working on this brought some memories from my life. One of them was when I had to make a hand-crafted model of Tenochtitlan in my history class in 8th grade. The other was when I had visited the Tulum Mayan ruins in Mexico from a cruise across Central America. So, overall, I felt a lot of joy working on this challenge and having to apply everything we have learned so far in the class. 
+> Nicole A. Vallejo Chinea
