@@ -4,13 +4,17 @@ To start off our pyramid, we first need a cube from Probuilder. By clicking Game
 <img width="409" alt="foto 2" src="https://github.com/user-attachments/assets/4d55d841-7a6e-4e9d-9591-e3f76cc5fa6c">
 
 With the same tool already picked, we now use the Move tool to move the top downwards with the y-axis, resulting us with this.
-[Foto 3]
+
+<img width="463" alt="foto 3" src="https://github.com/user-attachments/assets/658f658c-9318-415f-9b83-3b75579357a5">
+
 
 Back with ‘Object Selection’, with the x-axis, we made our cube a bit longer using Scale for our next steps.
-[Foto 4]
+<img width="413" alt="foto 4" src="https://github.com/user-attachments/assets/b5f821da-aa34-45d7-8ecc-81022805110a">
 
-We used our already made materials and textures to give our pyramid a bit of realism to it. Using ‘Face Selection’, we selected all the four side faces of the cube by holding down control(^) and clicking all the sides we wanted. Once every side was selected, we applied our Sand material to it by dragging the material and dropping it on the selected faces, painting it with our Sand texture. For contrast, we painted the top of the cube with a deep brown, resulting us with this.
-[Foto 5]
+
+We now use our already made materials and textures to give our pyramid a bit of realism to it. Using ‘Face Selection’, we selected all the four side faces of the cube by holding down control(^) and clicking all the sides we wanted. Once every side was selected, we applied our Sand material to it by dragging the material and dropping it on the selected faces, painting it with our Sand texture. For contrast, we painted the top of the cube with a deep brown, resulting us with this.
+<img width="457" alt="foto 5" src="https://github.com/user-attachments/assets/08e3c399-ea19-4f12-808d-7905051479a9">
+
 
 Next, we duplicated our cube and adjusted the scale of the y and x-coordinates to out liking to result us with the following picture, creating detailed edges and the very first layer of our pyramid.
 [foto 6]
