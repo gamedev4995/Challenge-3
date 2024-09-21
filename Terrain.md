@@ -133,7 +133,7 @@ Do this for every tree asset you want to include. Once you have an adjusted pref
 Next, we are going to use the City People Lite asset that contains various human models. These models will simulate tourists visiting the temple.
 After having the asset installed and imported to the project, within the assets folder, you will find the prefabs, models, and animations. In our case, we went with the animations to place around the terrain, as this provided more natural and dynamic poses, rather than the default T-pose of the models/prefabs.
 
-<img width="300" alt="Screenshot 2024-09-20 202753" src="https://github.com/user-attachments/assets/dd03e29a-ef92-41d6-a00e-a51e5f3cbec5">
+<img width="200" alt="Screenshot 2024-09-20 202753" src="https://github.com/user-attachments/assets/dd03e29a-ef92-41d6-a00e-a51e5f3cbec5">
 
 _Note:_ Due to using the animations, when placing the models, the textures do not appear and it is instead defaulted to white. So, we chose to improvise and decided on applying another solid material color instead. We specifically chose a tan colored material that existed from the nature asset, but an alternative could be to create a new material and manually change the color as it was previously described when creating the temple. This change in color allowed for some of the clothing details from the model to show.
 
