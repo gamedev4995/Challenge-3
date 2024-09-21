@@ -59,3 +59,4 @@ This project really helped me think outside the box, considering how almost the 
 > Amanda C. Rivera Santos
 
 While it was a slow process I really enjoyed working on painting the terrain in this project. I wanted it to look realistic which resulted in becoming more familiar with the texture properties and experimenting with the brushes and opacity. The trickiest part of this challenge was finding assets that were free and fit the theme of our game. Working together and communicating with my team members helped get through most major bugs. Overall it was pretty fun looking for textures to use on the pyramid and terrain. Creating the body of water definitely tested my creativity and understanding of the texture properties the most. In the end I feel pretty satified with the result of our project. 
+> Emmaluz Montaner Rosario
