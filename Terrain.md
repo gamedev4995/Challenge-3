@@ -95,7 +95,7 @@ Go to the materials folder in Assets. Click the plus sign on the upper left corn
 
 Drag the material from the window onto the cube. This will make it a transparent blue.
 
-<img width="800" alt="Screenshot 2024-09-19 at 7 24 59 PM" src="https://github.com/user-attachments/assets/c6ebeeda-eed7-4096-b36b-4d584dbc02fb">
+<img width="600" alt="Screenshot 2024-09-19 at 7 24 59 PM" src="https://github.com/user-attachments/assets/c6ebeeda-eed7-4096-b36b-4d584dbc02fb">
 
 Scale the cube to cover the area of the empty trench. Lower the cube into the ground using the move tool.
 
@@ -103,8 +103,34 @@ Scale the cube to cover the area of the empty trench. Lower the cube into the gr
 
 # Placing assets - Trees
 
-Now we are going to use our 2022 PBR XfrogPlants Sampler package that contains the nature assets we want to include.
+Now we are going to use our 2022 PBR XfrogPlants Sampler package that contains the nature assets we want to include. Once we've downloaded this asset from the Unity Asset Store. You can open it in unity through Window > Package manager > Package: My Assets > Import. It should then appear within the Asset folder in the Project tab.
 
+In the Prefab folder we can access the assets. Place a small tree when you do this a tree silhouette will appear.
+
+<img width="600" alt="Screenshot 2024-09-20 at 8 12 52 PM" src="https://github.com/user-attachments/assets/85a4f7dc-5e0d-44cd-9417-fad9d42a6330">
+
+
+Go into the textures folder of this package and place drag the preffered textured for the leaves and the the bark. 
+
+<img width="600" alt="Screenshot 2024-09-20 at 8 13 28 PM" src="https://github.com/user-attachments/assets/234369c1-2641-476e-b0e7-2f7de3fcc4b5">
+
+
+In the end it should look like this.
+
+<img width="600" alt="Screenshot 2024-09-20 at 8 13 23 PM" src="https://github.com/user-attachments/assets/80e8d7dd-5d93-47ef-83bb-07e945c97318">
+
+In the LOD Group change the visibility percentagess accordingly to make sure the tree is visible from a distance. 
+
+<img width="300" alt="Screenshot 2024-09-20 at 8 14 54 PM" src="https://github.com/user-attachments/assets/276aeec6-d7bc-46de-af6a-850684807e9f">
+
+
+Do this for every tree asset you want to include. Once you have an adjusted prefab of every variation you want to include now duplicate these and place them around the terrain.
+
+<img width="600" alt="Screenshot 2024-09-20 at 8 19 57 PM" src="https://github.com/user-attachments/assets/d444842f-d838-444b-b403-26738e4316d5">
+
+
+
+# Assets - People
 
 
 
