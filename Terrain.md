@@ -137,7 +137,7 @@ After having the asset installed and imported to the project, within the assets 
 
 _Note:_ Due to using the animations, when placing the models, the textures do not appear and it is instead defaulted to white. So, we chose to improvise and decided on applying another solid material color instead. We specifically chose a tan colored material that existed from the nature asset, but an alternative could be to create a new material and manually change the color as it was previously described when creating the temple. This change in color allowed for some of the clothing details from the model to show.
 
-After placing the model from “Animations” withing the scene, click on the model and head to the “Inspector” tab. Then, where it says “Model”, click on “Select”.
+After placing the model from “Animations” within the scene, click on the model and head to the “Inspector” tab. Then, where it says “Model”, click on “Select”.
 
 <img width="300" alt="Screenshot 2024-09-20 182917" src="https://github.com/user-attachments/assets/e4ae544c-f618-4c3b-b713-0d30068d9e37">
 
@@ -149,9 +149,9 @@ Where it says “peopleColors” below the “Remapped Materials” section, cli
 
 <img width="300" alt="Screenshot 2024-09-20 184412" src="https://github.com/user-attachments/assets/9c23e0fd-060c-4903-8941-e0413df05a4d">
 
-The following image shows the default version on the left and the one with the material added to the right:
+Be sure to do these steps for every different model you decide to place around. The following image shows the default version on the left and the one with the material added to the right:
 
-<img width="300" alt="Screenshot 2024-09-20 184759" src="https://github.com/user-attachments/assets/3884d1ab-cd37-4579-b5e7-1b32a83cc08b">
+<img width="600" alt="Screenshot 2024-09-20 184759" src="https://github.com/user-attachments/assets/3884d1ab-cd37-4579-b5e7-1b32a83cc08b">
 
 # Placing Assets – Dogs
 
@@ -162,7 +162,7 @@ After having the 3D Stylized Animated Dogs Kit installed and imported, you can p
 
 Example from our scene:
 
-<img width="300" alt="Screenshot 2024-09-20 210930" src="https://github.com/user-attachments/assets/acd68b8a-b102-4c1c-8775-00e54aacb221">
+<img width="600" alt="Screenshot 2024-09-20 210930" src="https://github.com/user-attachments/assets/acd68b8a-b102-4c1c-8775-00e54aacb221">
 
 # Result
 
@@ -170,13 +170,13 @@ Here is our final look at our scene!
 
 Front:
 
-<img width="300" alt="Screenshot 2024-09-20 202107" src="https://github.com/user-attachments/assets/eaf79256-5433-4efb-a998-f65e65bc3df1">
+<img width="600" alt="Screenshot 2024-09-20 202107" src="https://github.com/user-attachments/assets/eaf79256-5433-4efb-a998-f65e65bc3df1">
 
 Top:
 
-<img width="300" alt="Screenshot 2024-09-20 202330" src="https://github.com/user-attachments/assets/1672a7da-00d5-46a0-a86a-e2a6050b3aee">
+<img width="600" alt="Screenshot 2024-09-20 202330" src="https://github.com/user-attachments/assets/1672a7da-00d5-46a0-a86a-e2a6050b3aee">
 
 Back:
 
-<img width="300" alt="Screenshot 2024-09-20 202232" src="https://github.com/user-attachments/assets/ea26e95f-67ae-428d-936b-0342e59434a7">
+<img width="600" alt="Screenshot 2024-09-20 202232" src="https://github.com/user-attachments/assets/ea26e95f-67ae-428d-936b-0342e59434a7">
 
