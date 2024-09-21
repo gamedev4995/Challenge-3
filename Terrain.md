@@ -156,7 +156,7 @@ Be sure to do these steps for every different model you decide to place around. 
 # Placing Assets – Dogs
 
 For our last details, let’s add some stray and/or domesticated dogs belonging to some of the people.
-After having the 3D Stylized Animated Dogs Kit installed and imported, you can proceed to go directly to the models or prefab folder and pick the dog breeds you want to place around the scene. In this case, the default poses were not an issue.
+After having the 3D Stylized Animated Dogs Kit installed and imported, you can proceed to go directly to the Models or Prefab folder and pick the dog breeds you want to place around the scene. In this case, the default poses were not an issue.
 
 <img width="600" alt="Screenshot 2024-09-20 181338" src="https://github.com/user-attachments/assets/df9b0db3-7dba-4e20-9619-5f3a65655e9c">
 
