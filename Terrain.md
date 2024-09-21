@@ -137,15 +137,15 @@ After having the asset installed and imported to the project, within the assets 
 
 _Note:_ Due to using the animations, when placing the models, the textures do not appear and it is instead defaulted to white. So, we chose to improvise and decided on applying another solid material color instead. We specifically chose a tan colored material that existed from the nature asset, but an alternative could be to create a new material and manually change the color as it was previously described when creating the temple. This change in color allowed for some of the clothing details from the model to show.
 
-After placing the model from “Animations” within the scene, click on the model and head to the “Inspector” tab. Then, where it says “Model”, click on “Select”.
+After placing the model from Animations within the scene, click on the model and head to the Inspector tab. Then, where it says Model, click on Select.
 
 <img width="300" alt="Screenshot 2024-09-20 182917" src="https://github.com/user-attachments/assets/e4ae544c-f618-4c3b-b713-0d30068d9e37">
 
-Afterwards, make sure you are on the “Materials” tab.
+Afterwards, make sure you are on the Materials tab.
 
 <img width="300" alt="Screenshot 2024-09-20 182947" src="https://github.com/user-attachments/assets/2fbd86d9-ccc3-4013-abe6-6d683ff8f045">
 
-Where it says “peopleColors” below the “Remapped Materials” section, click on the circle/dot on the side and apply the material you wish to use. Finally, click “apply”.
+Where it says peopleColors below the Remapped Materials section, click on the circle/dot on the side and apply the material you wish to use. Finally, click apply.
 
 <img width="300" alt="Screenshot 2024-09-20 184412" src="https://github.com/user-attachments/assets/9c23e0fd-060c-4903-8941-e0413df05a4d">
 
