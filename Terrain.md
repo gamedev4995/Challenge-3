@@ -124,17 +124,59 @@ In the LOD Group change the visibility percentagess accordingly to make sure the
 <img width="300" alt="Screenshot 2024-09-20 at 8 14 54 PM" src="https://github.com/user-attachments/assets/276aeec6-d7bc-46de-af6a-850684807e9f">
 
 
-Do this for every tree asset you want to include. Once you have an adjusted prefab of every variation you want to include now duplicate these and place them around the terrain.
+Do this for every tree asset you want to include. Once you have an adjusted prefab of every variation you want to include, duplicate these and place them around the terrain.
 
 <img width="600" alt="Screenshot 2024-09-20 at 8 19 57 PM" src="https://github.com/user-attachments/assets/d444842f-d838-444b-b403-26738e4316d5">
 
+# Placing Assets - People
 
+Next, we are going to use the City People Lite asset that contains various human models. These models will simulate tourists visiting the temple.
+After having the asset installed and imported to the project, within the assets folder, you will find the prefabs, models, and animations. In our case, we went with the animations to place around the terrain, as this provided more natural and dynamic poses, rather than the default T-pose of the models/prefabs.
 
-# Assets - People
+<img width="300" alt="Screenshot 2024-09-20 202753" src="https://github.com/user-attachments/assets/dd03e29a-ef92-41d6-a00e-a51e5f3cbec5">
 
+_Note:_ Due to using the animations, when placing the models, the textures do not appear and it is instead defaulted to white. So, we chose to improvise and decided on applying another solid material color instead. We specifically chose a tan colored material that existed from the nature asset, but an alternative could be to create a new material and manually change the color as it was previously described when creating the temple. This change in color allowed for some of the clothing details from the model to show.
 
+After placing the model from “Animations” withing the scene, click on the model and head to the “Inspector” tab. Then, where it says “Model”, click on “Select”.
 
+<img width="300" alt="Screenshot 2024-09-20 182917" src="https://github.com/user-attachments/assets/e4ae544c-f618-4c3b-b713-0d30068d9e37">
 
+Afterwards, make sure you are on the “Materials” tab.
 
+<img width="300" alt="Screenshot 2024-09-20 182947" src="https://github.com/user-attachments/assets/2fbd86d9-ccc3-4013-abe6-6d683ff8f045">
 
+Where it says “peopleColors” below the “Remapped Materials” section, click on the circle/dot on the side and apply the material you wish to use. Finally, click “apply”.
+
+<img width="300" alt="Screenshot 2024-09-20 184412" src="https://github.com/user-attachments/assets/9c23e0fd-060c-4903-8941-e0413df05a4d">
+
+The following image shows the default version on the left and the one with the material added to the right:
+
+<img width="300" alt="Screenshot 2024-09-20 184759" src="https://github.com/user-attachments/assets/3884d1ab-cd37-4579-b5e7-1b32a83cc08b">
+
+# Placing Assets – Dogs
+
+For our last details, let’s add some stray and/or domesticated dogs belonging to some of the people.
+After having the 3D Stylized Animated Dogs Kit installed and imported, you can proceed to go directly to the models or prefab folder and pick the dog breeds you want to place around the scene. In this case, the default poses were not an issue.
+
+<img width="300" alt="Screenshot 2024-09-20 181338" src="https://github.com/user-attachments/assets/df9b0db3-7dba-4e20-9619-5f3a65655e9c">
+
+Example from our scene:
+
+<img width="300" alt="Screenshot 2024-09-20 210930" src="https://github.com/user-attachments/assets/acd68b8a-b102-4c1c-8775-00e54aacb221">
+
+# Result
+
+Here is our final look at our scene!
+
+Front:
+
+<img width="300" alt="Screenshot 2024-09-20 202107" src="https://github.com/user-attachments/assets/eaf79256-5433-4efb-a998-f65e65bc3df1">
+
+Top:
+
+<img width="300" alt="Screenshot 2024-09-20 202330" src="https://github.com/user-attachments/assets/1672a7da-00d5-46a0-a86a-e2a6050b3aee">
+
+Back:
+
+<img width="300" alt="Screenshot 2024-09-20 202232" src="https://github.com/user-attachments/assets/ea26e95f-67ae-428d-936b-0342e59434a7">
 
